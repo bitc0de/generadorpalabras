@@ -1,6 +1,7 @@
 # generadorpalabras
 Generate a longtail keywords for SEO // Generador de palabras clave largas para SEO
 
+![generadorpalabras](data/logo.png)
 
 <h3>Cómo funciona</h3>
 El generador de palabras te da una gran cantidad de palabras clave de cola larga.
